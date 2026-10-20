@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1696-add-searchable-deep-linkable-faq-entries-to",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1696-add-searchable-deep-linkable-faq-entries-to": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1696-add-searchable-deep-linkable-faq-entries-to",
+    "origin"
+  ]
+}
